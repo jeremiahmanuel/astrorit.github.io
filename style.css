@@ -47,33 +47,12 @@ blockquote{
 }
 
 
+p{
+  color:black;
+  font-size: 15px;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- #team{
-   height:100% ;
-   width: auto;
-   background: url("IMG_20181011_151725.jpg");
- }
+ol li{
+  color:black
+}
