@@ -25,7 +25,7 @@ body{
 }
 
 #quote{
-  background-image: url("798115411.jpg");
+ background-image: url("798115411.jpg");
   display: grid;
   grid-template-areas: "a a a a a "
                          "b b b b b"
