@@ -11,18 +11,6 @@ body{
   justify-content: center;
 }
 
-.welc{
-  color: white;
-  font-size: 30px;
-  text-transform: uppercase;
-  position: absolute;
-  top:32%;
-  left:32%;
-  background: rgba(0,0,0,0.000001);
-  text-align: center;
-}
 
-p{
-  font-size: 20px;
-  color:white;
-}
+
+
